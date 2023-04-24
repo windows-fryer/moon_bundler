@@ -15,6 +15,7 @@ These are my prefered ways of installing.
 ```
 scoop install luarocks
 scoop install cmake
+scoop install mingw
 ```
 
 *2: Install moonscript*
