@@ -42,4 +42,4 @@ cd moon_bundler
 ```
 
 ## Usage
-Open this file inside of Visual Stuio Code and run the build task. You'll have your lua code inside of `build` and bundle inside of `bundle`.
+Open this file inside of Visual Stuio Code, put your source code inside of src, and run the build task. You'll have your lua code inside of `build` and bundle inside of `bundle`.
