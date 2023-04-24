@@ -30,7 +30,12 @@ scoop install nodejs
 npm install -g tape-lua
 ```
 
-*4: Clone repository*
+*4: Install python*
+```
+scoop install python
+```
+
+*5: Clone repository*
 ```
 git clone https://github.com/windows-fryer/moon_bundler.git
 cd moon_bundler
