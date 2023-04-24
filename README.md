@@ -5,7 +5,7 @@ This repository contains a project that compiles MoonScript into Lua and bundles
 Before you can use this tool, you'll need to have the following software installed:
 - [Node.js](https://nodejs.org/en/download/) (version 12 or newer)
 - [MoonScript](https://moonscript.org/#installation) (version 0.5.0 or newer)
-- [Tape-Lua](https://github.com/ggcrunchy/tape-lua) (version 3.3.0 or newer)
+- [Tape-Lua](https://www.npmjs.com/package/tape-lua) (version 3.3.0 or newer)
 - [Python](https://www.python.org/downloads/) (version 3.0 or newer)
 
 ## Installing
