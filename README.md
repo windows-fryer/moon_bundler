@@ -20,7 +20,7 @@ scoop install mingw
 
 *2: Install moonscript*
 ```
-luarocks install moonscript
+luarocks install moonscript --dev
 luarocks install moonpick
 ```
 
