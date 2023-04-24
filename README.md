@@ -1,6 +1,9 @@
 # MoonBundler
 This repository contains a project that compiles MoonScript into Lua and bundles it into a single Lua file using Tape. It simplifies the process of integrating MoonScript code into your Lua projects by creating a single, standalone Lua file.
 
+## Support
+Favorting this repo and forking it when using it in projects would mean a lot. Anything helps but nothing is needed from you to use it!
+
 ## Prerequisites
 Before you can use this tool, you'll need to have the following software installed:
 - [Node.js](https://nodejs.org/en/download/) (version 12 or newer)
